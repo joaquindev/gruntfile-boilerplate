@@ -1,0 +1,28 @@
+{
+  "name": "gruntfile-boilerplate",
+  "version": "0.0.1",
+  "description": "Gruntfile boilerplate",
+  "main": "grunt",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaquindev/gruntfile-boilerplate.git"
+  },
+  "keywords": [
+    "gruntfile"
+  ],
+  "author": "joaquindev",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "6fe6ddb910febe7ed4b70a96f2c9adb14e8135b4",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-contrib-qunit": "~0.4.0",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}
